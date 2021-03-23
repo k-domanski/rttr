@@ -1,2 +1,11 @@
 .vscode
 build
+
+#engine
+#Directories
+bin/
+bin-int/
+
+#Visual studio
+*.vcxproj*
+*.sln
